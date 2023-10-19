@@ -1,0 +1,4 @@
+﻿  Lab04.cpp
+C:\Users\Beth\Desktop\School\Year 3\CGT215\Lab04\Lab04\Lab04.cpp(52,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Desktop\School\Year 3\CGT215\Lab04\Lab04\Lab04.cpp(79,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Lab04.vcxproj -> C:\Users\Beth\Desktop\School\Year 3\CGT215\Lab04\x64\Debug\Lab04.exe
